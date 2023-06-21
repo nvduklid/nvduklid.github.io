@@ -7140,6 +7140,10 @@ fieldset:disabled .btn {
   margin-bottom: 1.5rem !important;
 }
 
+.mb-41 {
+  /*margin-bottom: 1.5rem !important;*/
+}
+
 .mb-5 {
   margin-bottom: 3rem !important;
 }
@@ -10348,7 +10352,8 @@ html {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   /*background-color: #ffffffcf;*/
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(5px);
 }
 .navbar-custom .navbar-brand {
   text-transform: uppercase;
@@ -10442,6 +10447,15 @@ header.masthead .bg-circle-4 {
   background: #fff;
 }
 .about-section p {
+  margin-bottom: 5rem;
+}
+
+.service-section {
+  padding-top: 10rem;
+  padding-bottom: 5rem;
+  background: #fff;
+}
+.service-section p {
   margin-bottom: 5rem;
 }
 
