@@ -143,6 +143,7 @@ h1,
 h1,
 .h1 {
   font-size: calc(1.375rem + 1.5vw);
+  font-weight: 400;
 }
 @media (min-width: 1200px) {
   h1,
@@ -195,6 +196,7 @@ h6,
   max-width: 40rem;
   margin-left: auto;
   margin-right: auto;
+  font-weight: 400;
 }
 
 p {
@@ -10442,8 +10444,8 @@ header.masthead .bg-circle-4 {
   }
 }
 .about-section {
-  padding-top: 15rem;
-  padding-bottom: 15rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   background: #fff;
 }
 .about-section p {
