@@ -10557,7 +10557,7 @@ header.masthead .bg-circle-4 {
 }
 
 .logo-inside {
-  width: 100px;
-  height: 50px;
+  max-width: 100px;
+  height: 25px;
   position: relative;
 }
