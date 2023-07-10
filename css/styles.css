@@ -137,7 +137,7 @@ h1,
   margin-bottom: 1.5rem;
   font-family: "Quicksand", sans-serif;
   font-weight: 800;
-  line-height: 1.7;
+  line-height: 1.2;
 }
 
 h1,
@@ -10554,4 +10554,10 @@ header.masthead .bg-circle-4 {
 #mainNav .navbar-nav .nav-item:focus {
   outline: none;
   background-color: transparent;
+}
+
+.logo-inside {
+  width: 100px;
+  height: 50px;
+  position: relative;
 }
