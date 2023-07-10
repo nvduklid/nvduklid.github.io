@@ -10561,3 +10561,11 @@ header.masthead .bg-circle-4 {
   height: 25px;
   position: relative;
 }
+
+ul > li {
+  color: rgb(117, 212, 205);
+}
+
+ul > li > b {
+  color: black;
+}
