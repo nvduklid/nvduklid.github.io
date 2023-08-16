@@ -10445,7 +10445,7 @@ header.masthead .bg-circle-4 {
 }
 .about-section {
   padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 0rem;
   background: #fff;
 }
 .about-section p {
