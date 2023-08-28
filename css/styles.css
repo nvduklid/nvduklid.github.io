@@ -10444,7 +10444,7 @@ header.masthead .bg-circle-4 {
   }
 }
 .about-section {
-  padding-top: 4rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background: #fff;
 }
@@ -10453,8 +10453,8 @@ header.masthead .bg-circle-4 {
 }
 
 .service-section {
-  padding-top: 10rem;
-  padding-bottom: 5rem;
+  padding-top: 5rem;
+  padding-bottom: 0rem;
   background: #fff;
 }
 .service-section p {
@@ -10489,7 +10489,7 @@ header.masthead .bg-circle-4 {
 }
 
 .contact-section {
-  padding-top: 3rem;
+  padding-top: 0rem;
 }
 .contact-section .card {
   border: 0;
